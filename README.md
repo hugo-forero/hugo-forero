@@ -12,6 +12,3 @@ I have a background in audit and risk consulting (ex-Deloitte), and I'm now buil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hforero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hforero/)
 [![Email](https://img.shields.io/badge/Email-hugo.andres.forero.p@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hugo.andres.forero.p@gmail.com)
 
----
-
-![hugo-forero's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-forero&show_icons=true&theme=default)
