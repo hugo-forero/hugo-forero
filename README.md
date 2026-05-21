@@ -14,4 +14,4 @@ I have a background in audit and risk consulting (ex-Deloitte), and I'm now buil
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugo-forero&show_icons=true&hide_border=true&count_private=true)
+![hugo-forero's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-forero&show_icons=true&theme=default)
